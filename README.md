@@ -1,2 +1,2 @@
-界面.py 是界面概念设计
+界面.py 是界面概念设计。
 main_app.py是集成版简单app，调用text_risk_evaluator.py进行实时风险评估和界面展示，但由于text_risk_evaluator.py泛化能力不强，所以只是一个示例，后续有条件完成更精确评估时会进一步改进。
